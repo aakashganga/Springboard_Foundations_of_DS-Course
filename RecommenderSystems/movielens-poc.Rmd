@@ -5,6 +5,14 @@ date: "November, 2016"
 output: html_notebook
 ---
 
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_knit$set(root.dir = 'C:/Users/amit.dingare/Documents/Assorted R Scripts/movielensreco/Springboard_Foundations_of_DS-Course/RecommenderSystems')
+```
+
+
+
 ## Project Overview
 
 In this project, we develop a recommender system for recommending movies for the MovieLens database.
