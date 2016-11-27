@@ -2,7 +2,9 @@
 title: "Building a Movie Recommendation System using R- Recommenderlab package"
 author: "Vijay Raghunath, mentored by Amit Dingare"
 date: "November, 2016"
-output: html_notebook
+output:
+  html_document: default
+  html_notebook: default
 ---
 
 
